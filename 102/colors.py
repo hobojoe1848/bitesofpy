@@ -8,5 +8,4 @@ def print_colors():
     while True:
         pass
         
-for i in VALID_COLORS:
-    print(i)
+print("Julian is the best")
